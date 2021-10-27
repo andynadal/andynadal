@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Andy
-- 👀 My hobbies are Music,  Motorcycles, Tennis & Software Development
+- 👀 My hobbies are Music,  Motorcycles & Software Development
 - 🌱 I’m currently learning Express, Databases and more.
 - 💞️ I’m to work on Freelance Projects.
 
