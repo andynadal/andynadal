@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Andy
-- 👀 My hobbies are Music,  Motorcycles & Software Development
-- 🌱 I’m currently learning Express, Databases and more.
-- 💞️ I’m to work on Freelance Projects.
+- 👀 My hobbies are Music, Motorcycles & Software Development
+- 🌱 I’m an iOS and Web developer.
+- 💞️ I love to learn ways to improve my productivity.
 
-## [My Website](https://andynadal.com)
+## [Checkout my eebsite](https://andynadal.com)
 
 ## Reach me out at
 - [Twitter](https://twitter.com/theandynadal)
