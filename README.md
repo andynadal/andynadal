@@ -3,7 +3,7 @@
 - 🌱 I’m an iOS and Web developer.
 - 💞️ I love to learn ways to improve my productivity.
 
-## [Checkout my eebsite](https://andynadal.com)
+## [Checkout my website](https://andynadal.com)
 
 ## Reach me out at
 - [Twitter](https://twitter.com/theandynadal)
